@@ -1,0 +1,11 @@
+praw
+pandas
+numpy
+matplotlib
+gensim
+nltk
+spacy
+python-dateutil
+tqdm
+jupyter
+ipykernel
