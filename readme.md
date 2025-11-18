@@ -55,7 +55,7 @@ This results in a complete, labeled dataset of posts + comments tied to your key
 
 This notebook performs **all NLP processing** on the scraped text.
 
-### How it works — brief, clear explanation
+### How it works 
 
 1. **Merges post CSV + comment CSV** into one combined dataset.  
 2. Cleans the text:
@@ -91,7 +91,7 @@ These files contain cleaned text, sentiment labels, and topic assignments.
 
 This notebook **splits** the final combined dataset into smaller CSV files based on keyword triggers.
 
-### How it works — brief, clear explanation
+### How it works 
 
 1. Loads the combined CSV (`reddit_combined_final.csv`).  
 2. Searches the `post` text for specific strings such as:
