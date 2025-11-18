@@ -26,9 +26,9 @@ Workflow overview:
 
 This notebook handles **data collection from Reddit**.
 
-### How it works — brief, clear explanation
+### How it works 
 
-1. **You provide keywords** (e.g., “Zyn”, “nicotine pouch”, “quit nicotine”).  
+1. **Provide keywords** (e.g., “Zyn”, “nicotine pouch”, “quit nicotine”).  
 2. For each keyword, the notebook:
    - searches Reddit using PRAW  
    - retrieves the top N relevant posts  
